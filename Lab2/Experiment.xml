@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Experiment>
+    <arithmeticProgression>
+        <maxElement>20</maxElement>
+        <minElement>0</minElement>
+        <startLength>1000</startLength>
+        <difference>100</difference>
+        <maxLength>3000</maxLength>
+        <repeat>15</repeat>
+    </arithmeticProgression>
+    <geometricProgression>
+        <maxLength>10000</maxLength>
+        <minElement>0</minElement>
+        <startLength>10</startLength>
+        <denominator>1,5</denominator>
+        <maxElement>20</maxElement>
+        <repeat>15</repeat>
+    </geometricProgression>
+</Experiment>
