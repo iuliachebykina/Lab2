@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<experiments>
+    <experiment name="red-black tree">
+        <nodes name="arithmetic progression" minElement="0" maxElement="20" startLength="1000" maxLength="3000"
+               difference="100" repeat="15"/>
+        <nodes name="geometric progression" minElement="0" maxElement="20" startLength="10" maxLength="10000"
+               denominator="1.5" repeat="15"/>
+    </experiment>
+</experiments>
